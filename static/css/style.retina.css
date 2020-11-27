@@ -1,0 +1,302 @@
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and ( min--moz-device-pixel-ratio: 2),
+only screen and ( -o-min-device-pixel-ratio: 2/1),
+only screen and ( min-device-pixel-ratio: 2),
+only screen and ( min-resolution: 192dpi),
+only screen and ( min-resolution: 2dppx) {
+
+
+	.button .risk-free {
+		background: url('../images/icon-riskfree-2x.png') no-repeat 0 0;
+		background-size: 45px 45px;
+	}
+
+	.button .off30 {
+		background: url('../images/icon-30off-2x.png') no-repeat 0 0;
+		background-size: 45px 45px;
+	}
+
+	.safe-buy {
+		background: url('../images/packcellulite-win.png') no-repeat 0 0;
+		background-size: 60px 60px;
+	}
+
+	.header-section .logo {
+		background: url('../images/logo-cellu.png') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	.first-section {
+		background: url('../images/new-bg.jpg');
+		background-size: 2600px auto;
+	}
+
+	.first-section main .product-image {
+		background: url('../images/packcellulite-win.png') no-repeat 0 0;
+		background-size: 80% auto;
+		margin-top: 60px;
+	}
+
+	.first-section .woman-image {
+		background: url('../images/new-girl.png') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	.first-section form .icons {
+		background: url('../images/first-section-form-icons-2x.png') no-repeat 0 0;
+		background-size: 192px auto;
+	}
+
+	.second-section {
+		
+	}
+
+	.second-section main ul li {
+		background: url('../images/second-section-list-icon-2x.png') no-repeat 0 0;
+		background-size: 30px 30px;
+	}
+
+	.second-section .arrow {
+		background: url('../images/foruth-section-arrow-2x.png') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	.second-section .bottles-image {
+		background: url('../images/packcellulite.png') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	.third-section main {
+		background: url('../images/packcellulite.png') no-repeat 50% 0;
+		background-size: auto 435px;
+	}
+
+	.third-section main article.item-1 figure {
+		background: url('../images/third-section-image1-2x.png') no-repeat 0 0;
+		background-size: 150px 150px;
+	}
+
+	.third-section main article.item-2 figure {
+		background: url('../images/third-section-image2-2x.png') no-repeat 0 0;
+		background-size: 150px 150px;
+	}
+
+	.third-section main article.item-3 figure {
+		background: url('../images/third-section-image3-2x.png') no-repeat 0 0;
+		background-size: 150px 150px;
+	}
+
+	.third-section main article.item-4 figure {
+		background: url('../images/third-section-image4-2x.png') no-repeat 0 0;
+		background-size: 150px 150px;
+	}
+
+	.fourth-section {
+		background: url('../images/fourth-section-bg-2x.png') repeat-x 0 0;
+		background-size: 1px auto;
+	}
+
+	.fourth-section main .arrow {
+		background: url('../images/foruth-section-arrow-2x.png') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	.fourth-section main .bottle-image {
+		background: url('../images/fourth-section-bottle-image-2x.png') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	.fourth-section main article.item-1 figure {
+		background: url('../images/fourth-section-ingredient-image1-2x.png') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	.fourth-section main article.item-2 figure {
+		background: url('../images/fourth-section-ingredient-image2-2x.png') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	.fifth-section .carousel-testimonials article.item-1 figure {
+		background: url('../images/testimonial-image1-2x.jpg') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	.fifth-section .carousel-testimonials article.item-2 figure {
+		background: url('../images/testimonial-image2-2x.jpg') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	.fifth-section .carousel-testimonials article.item-3 figure {
+		background: url('../images/testimonial-image3-2x.jpg') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	.fifth-section .carousel-testimonials article.item-4 figure {
+		background: url('../images/testimonial-image4-2x.jpg') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	.fifth-section .carousel-testimonials article.item-5 figure {
+		background: url('../images/testimonial-image5-2x.jpg') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	.fifth-section .carousel-testimonials article.item-6 figure {
+		background: url('../images/testimonial-image6-2x.jpg') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	.fifth-section .carousel-testimonials article.item-7 figure {
+		background: url('../images/testimonial-image7-2x.jpg') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	.fifth-section .carousel-testimonials article.item-8 figure {
+		background: url('../images/testimonial-image8-2x.jpg') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	.fifth-section .carousel-testimonials article.item-9 figure {
+		background: url('../images/testimonial-image9-2x.jpg') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	.fifth-section .carousel-testimonials article.item-10 figure {
+		background: url('../images/testimonial-image10-2x.jpg') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	.fifth-section .carousel-testimonials article.item-11 figure {
+		background: url('../images/testimonial-image11-2x.jpg') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	.fifth-section .carousel-testimonials article.item-12 figure {
+		background: url('../images/testimonial-image12-2x.jpg') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	.six-section .inner-block {
+	
+	}
+
+	.six-section main .bottles-image {
+		background: url('../images/packcellulite.png') no-repeat 0 0;
+		background-size: 100% auto;
+		bottom: -45px;
+	}
+
+	.footer-section .block .logo {
+		background: url('../images/footer-section-logo-2x.png') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	.footer-section .block .icons {
+		background: url('../images/footer-seciton-cards-icon-2x.png') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	.footer-section .info .box {
+		background: url('../images/footer-section-info-icon-2x.png') no-repeat 0 0;
+		background-size: 20px 20px;
+	}
+
+	.product-block.package-1 .info figure {
+		background: url('../images/product-block-image1.png') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	.product-block.package-2 .info figure {
+		background: url('../images/product-block-image2.png') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	.product-block.package-3 .info figure {
+		background: url('../images/product-block-image3.png') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	.product-block.special-1 .info figure {
+		background: url('../images/product-block-image4.png') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	.product-block.special-2 .info figure {
+		background: url('../images/product-block-image5.png') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	.product-block.special-3 .info figure {
+		background: url('../images/product-block-image6.png') no-repeat 0 0;
+		background-size: auto 100%;
+	}
+
+	.product-block .info .text .icons .usa {
+		background: url('../images/icon-usa-flag-2x.gif') no-repeat 3px 3px;
+		background-size: auto 28px;
+	}
+
+	.order-arrow figure {
+		background: url('../images/order-arrow-image-2x.png') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	.order-satisfaction {
+		background: #fff url('../images/icon-satisfaction-2x.png') no-repeat 20px 20px;
+		background-size: 100px 100px;
+	}
+
+	.order-gift {
+		background: #fff url('../images/icon-gift-2x.png') no-repeat right 30px top 31px;
+		background-size: auto 100px;
+	}
+
+	.order-delivery {
+		background: #fff url('../images/icon-delivery-2x.png') no-repeat 20px 33px;
+		background-size: auto 40px;
+	}
+
+	.order-form .form-holder.cvv-code .cvv-link a {
+		background: url('../images/icon-question-2x.jpg') no-repeat 0 0;
+		background-size: 22px 22px;
+	}
+
+	.order-form .icons {
+		background: url('../images/first-section-form-icons-2x.png') no-repeat 0 0;
+		background-size: 192px auto;
+	}
+
+	.sticker-bottom figure {
+		background: url('../images/packcellulite.png') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	.popup-loading-wrapper .popup .product-image {
+		background: url('../images/packcellulite.png') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	.popup#popup-mobile-order-form form .icons {
+		background: url('../images/first-section-form-icons-2x.png') no-repeat 0 0;
+		background-size: 100% auto;
+	}
+
+	@media screen and (max-width: 960px) {
+
+		.six-section {
+			/* background: url('../images/six-section-bg-2x.jpg') no-repeat 100% 0 !important; */
+			background-size: auto 100% !important;
+		}
+
+	}
+
+	@media screen and (max-width: 768px) {
+
+		.six-section {
+			background: none !important;
+		}
+
+	}
+
+}
